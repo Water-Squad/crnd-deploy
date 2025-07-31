@@ -4,7 +4,7 @@ This is simple script to install and configure production-ready [Odoo](https://w
 managed by [odoo-helper-scripts](https://katyukha.gitlab.io/odoo-helper-scripts/).
 
 To deploy [Odoo](https://www.odoo.com/) just clone repo to machine and run `sudo crnd-deploy.bash`.
-To get install options, just call `sudo crnd-deploy.bash --help` command.
+To get install options, just call `sudo crnd-deploy.bash --help` command.a
 
 Also, this script supports automatic installation of
 [PostgreSQL](https://www.postgresql.org/) and
