@@ -396,6 +396,7 @@ ODOO_CONF_OPTIONS[db_user]="$DB_USER";
 ODOO_CONF_OPTIONS[db_password]="$DB_PASSWORD";
 ODOO_CONF_OPTIONS[workers]=$ODOO_WORKERS;
 ODOO_CONF_OPTIONS[without_demo]="True";
+ODOO_CONF_OPTIONS[xmlrpc_interface]="localhost";
 
 # pid file will be managed by init script, not odoo itself
 ODOO_CONF_OPTIONS[pidfile]="None";
